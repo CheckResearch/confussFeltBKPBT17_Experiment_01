@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:creator>Chrztoph</dc:creator>
+  <dc:title>Experiment for "conf/uss/FeltBKPBT17"</dc:title>
+  <dc:subject>Reproduction of the work in "Measuring HTTPS Adoption on the Web." by "Adrienne Porter Felt, Richard Barnes, April King, Chris Palmer, Chris Bentzel, Parisa Tabriz"</dc:subject>
+  <dc:description>Measuring the HTTPS adoption on the web.</dc:description>
+  <dc:date>2019-02-15T16:44:08.9510231</dc:date>
+  <dc:type>Reproduction</dc:type>
+  <dc:language>English</dc:language>
+  <dc:identifier>https://checkresearch.org/Experiment/View/f4704e80-eb7f-4d54-a29f-6f7bc5c830ca</dc:identifier>
+  <dc:identifier>https://github.com/CheckResearch/confussFeltBKPBT17_Experiment_01</dc:identifier>
+  <dc:relation>conf/uss/FeltBKPBT17</dc:relation>
+</metadata>
