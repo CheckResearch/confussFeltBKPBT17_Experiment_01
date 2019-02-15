@@ -2,34 +2,10 @@
 
  Publication ["Measuring HTTPS Adoption on the Web."](https://dblp.uni-trier.de/rec/html/conf/uss/FeltBKPBT17) by "Adrienne Porter Felt, Richard Barnes, April King, Chris Palmer, Chris Bentzel, Parisa Tabriz"
 
-## HOWTO
+## Experiment
 
-Please put a complete documentation of the experiment in this file
+All results and details of the reproduction can be found in the paper.
 
-Use [Markdown](https://guides.github.com/features/mastering-markdown/)!
+## Code
 
-## Experiment Setup
-
-### Experiment Content
-
-Which part of the original publication is reproduced
-
-### Hardware/Software
-
-Describe your Hardware & Software setup
-
-## Experiment Assumptions
-
-Make it explicit here if you made any assumptions in your experiment
-
-## Preconditions
-
-Something others need to prepare in order to run your code (e.g. libraries, python modules, ...)
-
-## Experiment Steps
-
-Describe each step of the experiment
-
-## Results
-
-Describe your results
+The code used for doing the checks can be found at [https://github.com/chrztoph/measuring-https-adoption-on-the-web-again](https://github.com/chrztoph/measuring-https-adoption-on-the-web-again).
