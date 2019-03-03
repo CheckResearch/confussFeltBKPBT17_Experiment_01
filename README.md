@@ -5,7 +5,3 @@
 ## Experiment
 
 All results and details of the reproduction can be found in the paper.
-
-## Code
-
-The code used for doing the checks can be found at [https://github.com/chrztoph/measuring-https-adoption-on-the-web-again](https://github.com/chrztoph/measuring-https-adoption-on-the-web-again).

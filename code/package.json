@@ -1,0 +1,15 @@
+{
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.12.18",
+    "@types/xml2json": "^0.10.0",
+    "axios": "^0.18.0",
+    "commander": "^2.19.0",
+    "typescript": "^3.3.3",
+    "xml2json": "^0.11.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "build": "./node_modules/.bin/tsc index.ts"
+  }
+}
